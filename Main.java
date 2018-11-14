@@ -78,7 +78,7 @@ public static int Max(int arr[]){
     boolean a1 =GG(a);
     boolean c1 =GG(c);
     System.out.println(a1+" "+c1);
-     int [] arr ={ 1, 1, 0, 0, 1, 0, 1, 1, 0, 0};
+  //   int [] arr ={ 1, 1, 0, 0, 1, 0, 1, 1, 0, 0};
      Change01(arr);System.out.println(Arrays.toString(arr));
 //     int [] arr1 = new int[8];
 //     Input(arr1);System.out.println(Arrays.toString(arr1));
